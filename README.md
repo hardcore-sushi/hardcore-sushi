@@ -1,6 +1,6 @@
 Hi!
 
-I'm Matéo Duparc, a French 🇫🇷 freelancer with a great passion for open-source software. I'm mainly interested in topics related to privacy and cybersecurity. I code in [rust](https://rust-lang.org) most of the time.
+I'm Cipherd, a French 🇫🇷 freelancer with a great passion for open-source software. I'm mainly interested in topics related to privacy and cybersecurity. I code in [rust](https://rust-lang.org) most of the time.
 
 I currently offer two services, for both individuals and companies:
 - 🧑‍💻 Software development
