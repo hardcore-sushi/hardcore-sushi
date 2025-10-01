@@ -10,5 +10,5 @@ I currently offer two services, for both individuals and companies:
 
 Crypto-currencies are accepted.
 
-- PGP key: [https://arkensys.dedyn.io/pgp](https://arkensys.dedyn.io/pgp) `B64E FE86 CEE1 D054 F082  1711 AFE3 8434 4A45 E13A`
+- PGP key: [https://arkensys.dedyn.io/pgp](https://arkensys.dedyn.io/pgp.txt) `B64E FE86 CEE1 D054 F082  1711 AFE3 8434 4A45 E13A`
 - Matrix: [@hardcoresushi:matrix.underworld.fr](https://matrix.to/#/@hardcoresushi:matrix.underworld.fr)
